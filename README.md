@@ -33,8 +33,8 @@ URL：https://esp32-cloud-flask.onrender.com
 ##  現場での実証実験（実地検証）
 机上の空論で終わらせず、実際の現場環境で動作させることにこだわりました。
 青森県弘前市の農場まで直接足を運び、プロトタイプの実証実験を実施。農作業特有の動作ノイズや装着感の課題を洗い出し、センサーの無線化などアジャイルな改善を繰り返しています。
+![IMG_1009](https://github.com/user-attachments/assets/ab165c17-cd4e-4ab4-9c88-b7a062954eea)
 
-<img width="1842" height="1247" alt="image" src="https://github.com/user-attachments/assets/871a6626-be61-4472-9be2-0cf56b8fb9df" />
 
 ---
 ※リポジトリ内には、各モジュールのソースコードを記載しています。
