@@ -16,8 +16,6 @@
 * **インフラ:** Render
 
 ##  ウェアラブルデバイス
-<img width="573" height="615" alt="image" src="https://github.com/user-attachments/assets/cd7e8968-fa5c-49d2-8fbb-142377d06853" />
-<img width="150" height="171" alt="image" src="https://github.com/user-attachments/assets/0530df72-1bfc-4385-bb03-2210430991ca" />
 ![Uploading image.png…]()
 ![Uploading image.png…]()
 
