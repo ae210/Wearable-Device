@@ -15,6 +15,20 @@
 * **フロントエンド (Webダッシュボード):** HTML / CSS
 * **インフラ:** Render
 
+##  ウェアラブルデバイス
+<img width="573" height="615" alt="image" src="https://github.com/user-attachments/assets/cd7e8968-fa5c-49d2-8fbb-142377d06853" />
+<img width="150" height="171" alt="image" src="https://github.com/user-attachments/assets/0530df72-1bfc-4385-bb03-2210430991ca" />
+![sm21](https://github.com/user-attachments/assets/fcbe2df9-3083-4bbd-a37e-c83392e80eb7)
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
+
+
+URL：https://esp32-cloud-flask.onrender.com
+
 ##  現場での実証実験（実地検証）
 机上の空論で終わらせず、実際の現場環境で動作させることにこだわりました。
 青森県弘前市の農場まで直接足を運び、プロトタイプの実証実験を実施。農作業特有の動作ノイズや装着感の課題を洗い出し、センサーの無線化などアジャイルな改善を繰り返しています。
