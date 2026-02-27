@@ -27,14 +27,12 @@
 
 <img width="1842" height="1247" alt="DB" src="https://github.com/user-attachments/assets/e0e91db6-9bc9-44e3-bd89-e55b997828f4" />
 
-
 URL：https://esp32-cloud-flask.onrender.com
 
 ##  現場での実証実験（実地検証）
 机上の空論で終わらせず、実際の現場環境で動作させることにこだわりました。
-青森県弘前市の農場まで直接足を運び、プロトタイプの実証実験を実施。農作業特有の動作ノイズや装着感の課題を洗い出し、センサーの無線化などアジャイルな改善を繰り返しています。
-![IMG_1009](https://github.com/user-attachments/assets/ab165c17-cd4e-4ab4-9c88-b7a062954eea)
-
+青森県弘前市の農場まで直接足を運び、プロトタイプの実証実験を実施。農作業特有の動作ノイズや装着感の課題を洗い出し、センサーの無線化などアジャイルな改善を繰り返しています
+<img width="963" height="575" alt="{D9613518-8C0F-44A1-BE59-AC4C8867902A}" src="https://github.com/user-attachments/assets/c450ebad-83b8-4555-981c-2446a6d9616a" />
 
 ---
 ※リポジトリ内には、各モジュールのソースコードを記載しています。
