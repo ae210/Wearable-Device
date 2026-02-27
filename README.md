@@ -17,6 +17,8 @@
 
 # ウェアラブルデバイス
 ![sm21](https://github.com/user-attachments/assets/d009e097-4194-4b8f-abf1-d9e7c7ca9a19)
+![IMG_0913 (2)](https://github.com/user-attachments/assets/8f860ede-5d2c-4353-98b9-efd5a69770c0)
+
 
 # BLE+SIM
 <img width="573" height="615" alt="image" src="https://github.com/user-attachments/assets/93a0c745-02a9-4525-a2a5-9bb07ab3afbd" />
